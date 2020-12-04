@@ -1,0 +1,10 @@
+[package]
+name = "erz"
+version = "0.1.0"
+authors = ["n@uti <quentin.maillard@epitech.eu>"]
+edition = "2018"
+
+[workspace]
+members = ["libs/*"]
+
+[dependencies]
